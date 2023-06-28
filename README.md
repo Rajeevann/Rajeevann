@@ -37,17 +37,20 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<p align="center"> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 GitHub Link: [github - Rajeevann](https://github.com/Rajeevann)
 </p>
 
-  <p align="center">
-  
-![My Skills](https://skillicons.dev/icons?i=html,css,js,github,nodejs,firebase,react,bootstrap,python) 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,github,nodejs,firebase,react,bootstrap,python" />
+  </a>
+</p>
 
-  </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rajeevann&theme=github-dark" alt="rajeevann" /></p>
+<p align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=rajeevann&theme=github-dark" alt="rajeevann" />
+</p>
 
 
 <h3 align="center">Connect with me:</h3>

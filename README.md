@@ -7,9 +7,11 @@
 
 <p align="center">
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=46&pause=1000&color=33F709&background=000000&center=true&vCenter=true&width=1000&height=200&lines=My+Name+is+Rajeevan;Budding+Front+end+Developer+;%3C+Web+Development+%C2%A0%C2%A0%E2%9D%A4%EF%B8%8F+%2F%3E;Life+Long+Learner+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=46&duration=2000&pause=1000&color=3DF701&center=true&vCenter=true&width=1000&height=200&lines=My+name+is+Rajeevan;Budding+Front-End+Developer;%3C+Web+Development+%F0%9F%92%93%2F%3E;Life+Long+Learner+%F0%9F%93%96+%F0%9F%92%BB;Building+one+thing+at+a+time" alt="Typing SVG" /></a>
 
 </p>
+
+
 
 <p align="center"> 
 <img src="https://img.shields.io/github/followers/rajeevann.svg?style=social&label=Follow&maxAge=2592000" alt="rajeevann" /> 

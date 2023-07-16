@@ -5,12 +5,12 @@
 <img src="https://typograssy.deno.dev/api?text=Hello%20world!" alt="rajeevann" />
 </p>
 
-<p align="center">
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000&color=06F724&center=true&vCenter=true&width=1000&height=200&lines=My+Name+is+Rajeevan;Front+End+Developer+;%3C+Web+Development+%2F+%3E;Life+Long+Leaner+" alt="Typing SVG" /></a>
+<div align="center">
+  
+![ezgif com-video-to-gif](https://github.com/Rajeevann/Personal_Blog/assets/130212215/3bb6c67c-fb61-49a7-ab27-d64dd25686fb)
 
-</p>
-
+</div>
 
 
 <p align="center"> 
